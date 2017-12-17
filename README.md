@@ -11,7 +11,11 @@ Publications： research result
   【5】 [NPC] Jiali Wang, Hang Zhuang, Changlong Li, Hang Chen, Bo Xu, Zhuocheng He, and Xuehai Zhou. A Fast and Better Hybrid Recommender System Based on Spark[C]//IFIP International Conference on Network and Parallel Computing. Springer International Publishing, 2016: 147-159(NPC 2017, CCF-C).  
   
 #Projects:
-  
+  【1】 https://github.com/xubo245/DSA   
+  【2】 https://github.com/xubo245/CloudSW   
+  【3】 https://github.com/xubo245/GCDSS   
+  【4】 https://github.com/xubo245/AdamLearning   
+  【5】 https://github.com/xubo245/SparkLearning
 #Help
 
 If you have any questions or suggestions, please write it in the issue of this project or send an e-mail to me: xubo245@mail.ustc.edu.cn
